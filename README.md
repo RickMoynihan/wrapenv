@@ -2,7 +2,7 @@
 
 Wrap a command with an environment defined in an env file
 
-# Installation
+# Installation & Upgrading
 
 Copy the line below and run it at a terminal to install wrapenv in
 `~/bin`.
