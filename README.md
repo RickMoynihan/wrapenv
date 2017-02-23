@@ -7,7 +7,9 @@ Wrap a command with an environment defined in an env file
 Copy the line below and run it at a terminal to install wrapenv in
 `~/bin`.
 
-`$ mkdir -p ~/bin && curl https://raw.githubusercontent.com/RickMoynihan/wrapenv/master/wrapenv > ~/bin/wrapenv && chmod +x ~/bin/wrapenv`
+```
+$ mkdir -p ~/bin && curl https://raw.githubusercontent.com/RickMoynihan/wrapenv/master/wrapenv > ~/bin/wrapenv && chmod +x ~/bin/wrapenv
+```
 
 ## Create some environments
 
