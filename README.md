@@ -43,3 +43,9 @@ SHELL=/bin/bash
 ...
 MY_PROJECT_ENV=foo
 ```
+
+# License
+
+Licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+(c) 2017 Swirrl IT Ltd
