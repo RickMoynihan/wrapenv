@@ -4,7 +4,7 @@ SCRIPT_NAME=`basename $0`
 
 if [ -z "$1"  -a  -z "$2" ]
 then
-    echo "Usage: $SCRIPT_NAME <namespace> <env_name>"
+    echo "Usage: $SCRIPT_NAME <project_namespace> <env_name>"
     echo
     echo "Available environments: "
     tree ~/.wrapenv | sed -e 's/.env//g' | sed -e 's/\/.*//g' | sed -e 's/[0-9].*//g'
