@@ -1,6 +1,6 @@
 # wrapenv
 
-Wrap a command with an environment defined in an env file
+Wrap a command with an environment defined in an env file.  `wrapenv` is implemented a light weight super simple 13 line bash script.
 
 # Installation & Upgrading
 
